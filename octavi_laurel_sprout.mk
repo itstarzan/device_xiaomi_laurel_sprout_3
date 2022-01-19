@@ -37,7 +37,7 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 SKIP_ABI_CHECKS := true
 
 # FOD Animation
-EXTRA_FOD_ANIMATIONS := true
+EXTRA_UDFPS_ANIMATIONS := true
 
 # Props
 WITH_GAPPS := true
