@@ -1,2 +1,5 @@
+# Octavi's props
 ro.octavi.maintainer=Itstarzan
 ro.octavi.display.pid=1452342
+ro.octavi.hw.cam=48Mp,8Mp,2Mp:32Mp 
+ro.octavi.hw.cpu=Snapdragon 665 (11nm)
